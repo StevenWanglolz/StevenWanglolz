@@ -1,5 +1,5 @@
 # Welcome to my homepage!
-### *You can be a late bloomer and still be the most beautiful flower in the garden*
+### *You can be a late bloomer and still be the most beautiful flower in the garden*🌸
 ## Projects I've participated in:
 - Garmin app that tracks users' data and allows users to log their emotion (Repository kept private) - *Swift*
 - [Online school resource sharing website, KnowledgeNCU](https://github.com/StevenWanglolz/1112_summer_project) (Although I did not contribute much to this project due to some issue with my computer.) - *html, css, javascript, java, sql*
