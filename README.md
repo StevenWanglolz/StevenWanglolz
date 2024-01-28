@@ -11,5 +11,6 @@
 - I was the top 0.01% of [Beabadoobee](https://www.youtube.com/@Beabadoobee) listeners in 2022.
 - I am a big fan of [Junji Ito](https://www.google.com/search?q=junji+ito&rlz=1C1ONGR_zh-TWTW1063TW1063&oq=junji+ito&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgwIARAuGEMYgAQYigUyBggCEEUYOzIMCAMQLhhDGIAEGIoFMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAuGIAEMgcIBxAAGIAEMgcICBAuGIAEMgcICRAAGIAE0gEIMTcwMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8).
 - I like to write poems. [My Poetry Account](https://www.instagram.com/rayofhope_inthedark?igsh=bXFtYWt3MmhsZXdi&utm_source=qr)  
-- The images below will give you an idea of what I look like :3
-<img src="./img/black_bishounen.jpg" alt="drawing" width="200"/>!<img src="./img/white_bishounen.jpg" alt="drawing" width="200" height="288"/>
+- The images below will give you an idea of what I look like :3  
+
+<img src="./img/black_bishounen.jpg" alt="drawing" width="400" height="576"/>!<img src="./img/white_bishounen.png" alt="drawing" width="400" height="576"/>
