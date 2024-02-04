@@ -1,5 +1,21 @@
 # Welcome to my homepage!
 ### *You can be a late bloomer and still be the most beautiful flower in the garden* 🌸
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=StevenWanglolz&include_all_commits=true&theme=dracula"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenWanglolz&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center"s src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
 ## Projects I've participated in:
 - Garmin app that tracks users' data and allows users to log their emotion (Repository kept private) - *Swift*
 - [Online school resource sharing website, KnowledgeNCU](https://github.com/StevenWanglolz/112_SA_project_G2) (Although I did not contribute much to this project due to some issue with my computer.) - *html, css, javascript, java, sql (xampp)*
