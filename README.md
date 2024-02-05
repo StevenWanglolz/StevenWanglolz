@@ -1,6 +1,8 @@
 # Welcome to my homepage!
 ### *You can be a late bloomer and still be the most beautiful flower in the garden* 🌸
 
+---
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=StevenWanglolz&theme=dracula&include_all_commits=true" />
 </a>
@@ -11,13 +13,13 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWanglolz&repo=112_SA_Project_G2" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center"s src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center"s src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWanglolz&repo=My_Leetcode_Journey" />
 </a>
 
-
+---
 
 ## Projects I've participated in:
 - Garmin app that tracks users' data and allows users to log their emotion (Repository kept private) - *Swift*
