@@ -1,6 +1,14 @@
 # Welcome to my homepage!
 ### *You can be a late bloomer and still be the most beautiful flower in the garden* 🌸
 
+<table style="border:none">
+<tr>
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=StevenWanglolz&theme=dracula)](https://git.io/streak-stats)
+  
+</tr>
+</table>
+
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -13,15 +21,6 @@
 ---
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StevenWanglolz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWanglolz&repo=112_SA_Project_G2" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center"s src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWanglolz&repo=My_Leetcode_Journey" />
-</a>
 
 ---
 
