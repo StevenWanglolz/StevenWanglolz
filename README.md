@@ -15,7 +15,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=StevenWanglolz&include_all_commits=true&theme=dracula&rank_icon=github">
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenWanglolz&langs_count=8&card_width=300&layout=compact" />
+  <img height=200 align="center" src="https://github-re adme-stats.vercel.app/api/top-langs?username=StevenWanglolz&langs_count=8&card_width=300&layout=compact" />
 </a>
 
 ---
@@ -31,7 +31,7 @@
 ## Fun facts about me:
 - I major in MIS.
 - I am interested in the occult, e.g., Numerology, Astrology, Witchcraft, ESP, Tarot, Spirituality, all things occult.
-- My music taste is very different from my peers. I listen to a lot of [Beabadoobee](https://www.youtube.com/@Beabadoobee), [Mitski](https://www.youtube.com/@mitskileaks), [Chloe Moriondo](https://www.youtube.com/@chloemoriondo), [Bruno Major](https://www.youtube.com/@MrBrunoMajor), and [Ado](https://www.youtube.com/@Ado1024)(lately), etc.
+- My music taste is very different from my peers. I listen to a lot of [Beabadoobee](https://www.youtube.com/@Beabadoobee), [Mitski](https://www.youtube.com/@mitskileaks), [Chloe Moriondo](https://www.youtube.com/@chloemoriondo), and [Bruno Major](https://www.youtube.com/@MrBrunoMajor), etc.
 - I was the top 0.1% of [Beabadoobee](https://www.youtube.com/@Beabadoobee) listeners in 2022.
 - I am a big fan of [Junji Ito](https://www.google.com/search?q=junji+ito&rlz=1C1ONGR_zh-TWTW1063TW1063&oq=junji+ito&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgwIARAuGEMYgAQYigUyBggCEEUYOzIMCAMQLhhDGIAEGIoFMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAuGIAEMgcIBxAAGIAEMgcICBAuGIAEMgcICRAAGIAE0gEIMTcwMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8).
 - I like to write poems. [My Poetry Account](https://www.instagram.com/rayofhope_inthedark?igsh=bXFtYWt3MmhsZXdi&utm_source=qr)  
