@@ -35,15 +35,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/StevenWanglolz/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/StevenWanglolz/snk/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/StevenWanglolz/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
@@ -97,3 +97,7 @@
 - The images below will give you an idea of what I look like :3  
 
 <img src="./img/black_bishounen.jpg" alt="drawing" width="400" height="576"/>!<img src="./img/white_bishounen.png" alt="drawing" width="400" height="576"/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Philosopher&size=35&center=true&vCenter=true&color=ccb7bf&width=500&height=70&duration=4000&lines=Thank+you+for+visiting!+;+Hope+to+see+you+again!;" />
+</h1>
