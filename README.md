@@ -41,28 +41,29 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<table style="border:none">
-<tr>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=StevenWanglolz&theme=dracula)](https://git.io/streak-stats)
-  
-</tr>
-</table>
+<div align="center">
 
----
+  [![GitHub Streak](https://streak-stats.demolab.com?user=StevenWanglolz&theme=dracula&count_private=true&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=StevenWanglolz&theme=dracula&total_commits=true&width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=StevenWanglolz&count_private=true&border_radius=10&theme=dracula&total_commits=true&width=300" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenWanglolz&theme=dracula&layout=compact&langs_count=8&card_width=280" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenWanglolz&theme=dracula&layout=compact&langs_count=8&card_width=280&border_radius=10" />
 </a>
 
 ---
+<div align="center">
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StevenWanglolz&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StevenWanglolz&layout=compact&theme=dracula&border_raius=10)](https://github.com/anuraghazra/github-readme-stats)
 
----
+</div>
+
 
 ## Projects I've participated in:
 - Garmin app that tracks users' data and allows users to log their emotion (Repository kept private) - *Swift*
