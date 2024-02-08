@@ -1,5 +1,45 @@
-# Hi I'm a programmer from Taiwan!
-### *You can be a late bloomer and still be the most beautiful flower in the garden* 🌸
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Philosopher&size=35&center=true&vCenter=true&color=ccb7bf&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Steven+Wang!;" />
+</h1>
+
+<h2 align="center">
+   A programmer who is interested in all things occult!✨🔮🌠🃏🌟 
+</h2>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **My Leetcode Journey**
+ 
+ 🌱 I’m currently learning **Data structures and algorithms**
+ </div>
+
+<hr/>
+
+<h3 align="center">
+<i>You can be a late bloomer and still be the most beautiful flower in the garden</i> 🌸
+</h3>
+
+<br/>
+
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=swift,python,javascript,c,java,mysql" /><br>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/StevenWanglolz/StevenWanglolz/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <table style="border:none">
 <tr>
