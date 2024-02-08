@@ -1,4 +1,4 @@
-# Welcome to my homepage!
+# Hi I'm a programmer from Taiwan!
 ### *You can be a late bloomer and still be the most beautiful flower in the garden* 🌸
 
 <table style="border:none">
@@ -12,15 +12,15 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=StevenWanglolz&include_all_commits=true&theme=dracula&rank_icon=github">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=StevenWanglolz&include_all_commits=true&rank_icon=github&theme=dracula">
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-re adme-stats.vercel.app/api/top-langs?username=StevenWanglolz&langs_count=8&card_width=300&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenWanglolz&langs_count=8&card_width=300&layout=compact&theme=dracula" />
 </a>
 
 ---
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StevenWanglolz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StevenWanglolz&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
