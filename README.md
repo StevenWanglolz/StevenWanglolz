@@ -3,13 +3,13 @@
 </h1>
 
 <h2 align="center">
-   A programmer who is interested in all things occult!✨🔮🌠🃏🌟 
+   A programmer who is interested in all things occult!✨🔮🌠🃏🌟
 </h2>
 
 <div align="center">
- 
+
  🔭 I’m currently working on **My Leetcode Journey**
- 
+
  🌱 I’m currently learning **Data structures and algorithms**
  </div>
 
@@ -83,13 +83,13 @@
 
 </div>
 
-## Projects I've participated in:
+## Projects I've participated in
 
 - Garmin app that tracks users' data and allows users to log their emotion (Repository kept private) - _Swift_
 - [Online school resource sharing website, KnowledgeNCU](https://github.com/StevenWanglolz/112_SA_project_G2) (Although I did not contribute much to this project due to some issues with my computer.) - _html, css, javascript, java, sql (xampp)_
 - [My own Leetcode solutions](https://github.com/StevenWanglolz/My_Leetcode_Journey) - _Python, C++_
 
-## Fun facts about me:
+## Fun facts about me
 
 - I major in MIS.
 - I am interested in the occult, e.g., Numerology, Astrology, Witchcraft, ESP, Tarot, Spirituality, all things occult.
