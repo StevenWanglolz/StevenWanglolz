@@ -69,7 +69,7 @@
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=StevenWanglolz&count_private=true&border_radius=10&theme=dracula&total_commits=true&width=300&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=StevenWanglolz&count_private=true&border_radius=10&theme=dracula&total_commits=true&width=300&rank_icon=github&include_all_commits=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenWanglolz&theme=dracula&layout=compact&langs_count=8&card_width=280&border_radius=10" />
