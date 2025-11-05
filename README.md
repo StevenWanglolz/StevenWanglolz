@@ -5,8 +5,9 @@
 <h2 align="center">
    A programmer who is interested in all things occult!✨🔮🌠🃏🌟
 </h2>
-<hw aligh="center">
+<h2 aligh="center">
     2025 update: I no longer believe in magic
+<h2 aligh="center">
 <div align="center">
 
  🔭 I’m currently working on **Random small projects**
