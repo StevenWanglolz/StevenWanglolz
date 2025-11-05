@@ -4,19 +4,21 @@
 
 <h2 align="center">
    A programmer who is interested in all things occult!✨🔮🌠🃏🌟
+    2025 update: I no longer believe in magic
 </h2>
 
 <div align="center">
 
- 🔭 I’m currently working on **My Leetcode Journey**
+ 🔭 I’m currently working on **Random small projects**
 
- 🌱 I’m currently learning **Data structures and algorithms**
+ 🌱 I’m currently learning **Next.js**
  </div>
 
 <hr/>
 
 <h3 align="center">
 <i>You can be a late bloomer and still be the most beautiful flower in the garden</i> 🌸
+<i>Anything can be solved with the right method, enough time, enough effort</i>
 </h3>
 
 <br/>
