@@ -19,9 +19,10 @@
 
 <h3 align="center">
 <i>You can be a late bloomer and still be the most beautiful flower in the garden</i> 🌸
-<i>Anything can be solved with the right method, enough time, enough effort</i>
 </h3>
-
+<h3 align="center">
+    <i>Anything can be solved with the right method, enough time, enough effort</i>
+</h3>
 <br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
