@@ -21,7 +21,7 @@
 <i>You can be a late bloomer and still be the most beautiful flower in the garden</i> 🌸
 </h3>
 <h3 align="center">
-    <i>Anything can be solved with the right method, enough time, enough effort</i>
+    <i>2025: Anything can be solved with the right method, enough time, enough effort</i>
 </h3>
 <br/>
 
