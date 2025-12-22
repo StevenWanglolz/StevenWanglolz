@@ -65,7 +65,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=StevenWanglolz&theme=dracula&count_private=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Steven_Wanglolz&theme=dracula&count_private=true&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
